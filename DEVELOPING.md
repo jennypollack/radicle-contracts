@@ -14,7 +14,8 @@ The project follows [Semantic Versioning] with regard to
 its JavaScript and TypeScript bindings' APIs and the Ethereum ABI.
 Any changes visible through any of these interfaces must be noted
 in the changelog and reflected in the version number when a new release is made.
-The changelog is manually updated and follows the [Keep a Changelog] convention.
+The changelog is manually updated in every commit that makes a change
+and it follows the [Keep a Changelog] convention.
 Each released version has a git tag and a GitHub release
 named after its version with a `v` prefix, e.g. `v0.0.1`, `v1.0.0` or `v1.2.3`.
 
